@@ -13,4 +13,5 @@ function bmiCalculator(weight,height){
         console.log("Your BMI is " + bmi + ", so you are overweight.");
 
     }
+       console.log("submitted by mariam rameen");
 }
